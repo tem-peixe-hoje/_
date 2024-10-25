@@ -1,4 +1,4 @@
-# Tem PEIXE Hoje?
+# Tem PEIXE Hoje??
 
 Originally created as a joke, _Tem PEIXE Hoje?_ is a very simple website intended to be a quick way to check whether any party or event is happening today at PEIXE - Instituto de Filosofia e Ciências Humanas.
 
